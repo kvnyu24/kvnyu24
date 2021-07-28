@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm  Kevin Yu, a CS student @ Duke University & investment intern @ ZhenFund. 
 
 
-- 🔭 I’m currently working on my own entrepreneurship project that intends to bring in more data & algorithm-driven elements into venture capital.
+- 🔭 I’m currently working on my own entrepreneurship project that intends to bring in more data & algorithm-driven elements into venture capital.  
+    - Previously worked at Megvii Inc. as a algorithm engineer focusing on one-shot detection and visual object tracking.  
+    - Had experiences in industries such as real estate, finance, healthcare, media and education. Mainly working as a developer/algorithm engineer/data scientist.
 <!-- - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
