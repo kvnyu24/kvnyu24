@@ -8,7 +8,7 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: https://www.linkedin.com/in/kevin-yu-kaicheng-4b3650191/
 - 😄 Pronouns: He/Him/His
-<!-- - ⚡ Fun fact:  -->
+- ⚡ Fun fact: Big fan of Hong Kong movies
 
 
 <a href="https://github.com/KevinYu2050/github-readme-stats">
