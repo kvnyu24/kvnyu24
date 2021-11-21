@@ -18,5 +18,5 @@
 </a>
 <a href="https://github.com/KevinYu2050//github-readme-stats">
   <!-- Change the `github-readme-stats.KevinYu2050.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYu2050&layout=compact&theme=material-palenight&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYu2050&layout=compact&count_private=true&theme=synthwave&langs_count=8" />
 </a>
