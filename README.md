@@ -14,9 +14,9 @@
 
 
 <a href="https://github.com/KevinYu2050/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinYu2050&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kevin's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinYu2050&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave" alt="Kevin's github stats" />
 </a>
 <a href="https://github.com/KevinYu2050//github-readme-stats">
   <!-- Change the `github-readme-stats.KevinYu2050.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYu2050&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYu2050&layout=compact&theme=material-palenight&langs_count=8" />
 </a>
